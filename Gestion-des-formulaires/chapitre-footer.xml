@@ -1,0 +1,16 @@
+<footer>
+	<exercices>
+		<exercice>
+			<description></description>
+			<download></download>
+			<download></download>
+		</exercice>
+	</exercices>
+	<quiz>
+		<question>
+			<description></description>
+			<reponse></reponse>
+			<detail></detail>
+		</question>
+	</quiz>
+</footer>

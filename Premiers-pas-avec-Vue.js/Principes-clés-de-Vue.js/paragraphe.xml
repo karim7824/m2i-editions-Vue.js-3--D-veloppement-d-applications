@@ -1,0 +1,40 @@
+<paragraphe titre="Principes clés de Vue.js">
+	<sparagraphes>
+		<sparagraphe titre="TITRE">
+			<illustration>ILLUSTRATION</illustration>
+			<contenu>CONTENU1</contenu>
+			<exemples>
+				<exemple>
+					<description>
+					EXEMPLEDESCRIPTION
+					</description>
+					EXEMPLECONTENU
+					<contenu>
+					</contenu>
+				</exemple>
+			</exemples>
+			<sites>
+				<site></site>
+				<site></site>
+			</sites>
+			<exercices>
+				<exercice>
+					<enonce>ENONCE</enonce>
+					<corrige>CORRIGE</corrige>
+					<download>DOWNLOAD</download>
+				</exercice>
+			</exercices>
+		</sparagraphe>
+	</sparagraphes>
+	<ia>
+		<theme>
+		vuejs
+		</theme>
+		<questions>
+			En francais Expliquer : vuejs, SUJET -
+			En francais Comment utiliser : vuejs, SUJET -
+			En francais Exemple simple : vuejs, SUJET -
+			En francais Syntaxe : vuejs, SUJET
+		</questions>
+	</ia>
+</paragraphe>
